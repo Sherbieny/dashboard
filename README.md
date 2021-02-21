@@ -14,4 +14,4 @@ A basic LAMP application for Chart statistics
 - Statistics
 
 #### Links
-- Website: https://limitless-forest-72332.herokuapp.com/
+- Website: https://sherbo-dashboard.herokuapp.com/
