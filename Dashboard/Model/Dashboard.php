@@ -15,10 +15,10 @@ use PDO;
  */
 class Dashboard implements DashboardInterface
 {
-    const DB_HOST = 'mysql';
-    const DB_NAME = 'dashboard';
-    const DB_USER = 'root';
-    const DB_PASS = 'essorege3';
+    const DB_HOST = '####';
+    const DB_NAME = '####';
+    const DB_USER = '#####';
+    const DB_PASS = '#####';
     //table names
     const TABLE_ORDER = 'Purchase_Order';
     const TABLE_CUSTOMER = 'Customer';
